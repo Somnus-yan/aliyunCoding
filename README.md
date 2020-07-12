@@ -25,7 +25,7 @@ main/java
 └── com.aliyun
   └── coding1
     └── nanqi
-      └── Coding.java
+      └── Solution.java
       └── README.md
     └── lisi
   └── coding2
@@ -34,6 +34,6 @@ test/java
 └── com.aliyun
   └── coding1
     └── nanqi
-      └── CodingTest.java
+      └── SolutionTest.java
 ```
  - `README.md` 中可以描述文件的目录 ，方便其他成员查看
