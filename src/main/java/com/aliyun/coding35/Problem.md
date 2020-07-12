@@ -8,8 +8,9 @@
 ## 示例
 ```text
 比如二叉搜索树如下
+```
 ![](https://github.com/ZivYan/aliyunCoding/blob/master/src/main/java/com/aliyun/coding35/BinarySearchTree.jpg)
-
+```text
 那么第二大的值是25
 ```
 
